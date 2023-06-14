@@ -6,9 +6,9 @@
 // @supportURL      https://github.com/TosoxDev/ZEIT-Akademie-Quiz-Solver/issues
 // @updateURL       https://github.com/TosoxDev/ZEIT-Akademie-Quiz-Solver/releases/latest/download/ZEIT-Akademie-Quiz-Solver.user.js
 // @downloadURL     https://github.com/TosoxDev/ZEIT-Akademie-Quiz-Solver/releases/latest/download/ZEIT-Akademie-Quiz-Solver.user.js
-// @icon            https://creazilla-store.fra1.digitaloceanspaces.com/icons/5630791/test-it-icon-md.png
+// @icon            https://github.com/TosoxDev/ZEIT-Akademie-Quiz-Solver/blob/master/readme-res/icon.png?raw=true
 // @description     Shows the solutions to the current quiz questions
-// @version         1.0.0
+// @version         1.0.1
 // @license         MIT
 // @copyright       Copyright (c) 2023 TosoxDev
 // @match           https://www.zeitakademie.de/*
