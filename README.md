@@ -17,10 +17,8 @@ Reveals the solutions to the current ZEIT Akademie quiz questions
 
 ## Preview
 
-<video width="2560" controls>
-  <source src="readme-res/show_solution.mp4" type="video/mp4">
-</video>
+[<img src="readme-res/show_solution_thumbnail.jpg" alt="vid_preview0" width="700"/>](https://youtu.be/2ah_xlSa9dU)
 
-<video width="2560" controls>
-  <source src="readme-res/solve_quiz.mp4" type="video/mp4">
-</video>
+<br/>
+
+[<img src="readme-res/solve_quiz_thumbnail.jpg" alt="vid_preview1" width="700"/>](https://youtu.be/dYlhPUnmym4)
