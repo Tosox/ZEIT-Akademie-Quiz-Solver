@@ -1,16 +1,16 @@
 // ==UserScript==
 // @name            ZEIT Akademie Quiz Solver
-// @author          TosoxDev
-// @namespace       https://github.com/TosoxDev/ZEIT-Akademie-Quiz-Solver
-// @homepage        https://github.com/TosoxDev/ZEIT-Akademie-Quiz-Solver
-// @supportURL      https://github.com/TosoxDev/ZEIT-Akademie-Quiz-Solver/issues
-// @updateURL       https://github.com/TosoxDev/ZEIT-Akademie-Quiz-Solver/releases/latest/download/ZEIT-Akademie-Quiz-Solver.user.js
-// @downloadURL     https://github.com/TosoxDev/ZEIT-Akademie-Quiz-Solver/releases/latest/download/ZEIT-Akademie-Quiz-Solver.user.js
-// @icon            https://github.com/TosoxDev/ZEIT-Akademie-Quiz-Solver/blob/master/readme-res/icon.png?raw=true
+// @author          Tosox
+// @namespace       https://github.com/Tosox/ZEIT-Akademie-Quiz-Solver
+// @homepage        https://github.com/Tosox/ZEIT-Akademie-Quiz-Solver
+// @supportURL      https://github.com/Tosox/ZEIT-Akademie-Quiz-Solver/issues
+// @updateURL       https://github.com/Tosox/ZEIT-Akademie-Quiz-Solver/releases/latest/download/ZEIT-Akademie-Quiz-Solver.user.js
+// @downloadURL     https://github.com/Tosox/ZEIT-Akademie-Quiz-Solver/releases/latest/download/ZEIT-Akademie-Quiz-Solver.user.js
+// @icon            https://github.com/Tosox/ZEIT-Akademie-Quiz-Solver/blob/master/readme-res/icon.png?raw=true
 // @description     Shows the solutions to the current quiz questions
-// @version         1.0.1
+// @version         1.0.2
 // @license         MIT
-// @copyright       Copyright (c) 2023 TosoxDev
+// @copyright       Copyright (c) 2024 Tosox
 // @match           https://www.zeitakademie.de/*
 // @grant           GM_registerMenuCommand
 // @grant           unsafeWindow
