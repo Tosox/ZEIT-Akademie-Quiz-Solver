@@ -17,8 +17,8 @@ Reveals the solutions to the current ZEIT Akademie quiz questions
 
 ## Preview
 
-[<img src="readme-res/show_solution_thumbnail.jpg" alt="vid_preview0" width="700"/>](https://youtu.be/2ah_xlSa9dU)
+[![](https://ytcards.demolab.com/?id=2ah_xlSa9dU&title=ZEIT+Akademie+Quiz+Solver+-+Show+Solution&lang=en&timestamp=1686906155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=700&border_radius=5 "ZEIT Akademie Quiz Solver - Show Solution")](https://www.youtube.com/watch?v=2ah_xlSa9d)
 
 <br/>
 
-[<img src="readme-res/solve_quiz_thumbnail.jpg" alt="vid_preview1" width="700"/>](https://youtu.be/dYlhPUnmym4)
+[![](https://ytcards.demolab.com/?id=dYlhPUnmym4&title=ZEIT+Akademie+Quiz+Solver+-+Solve+Quiz&lang=en&timestamp=1686906155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=700&border_radius=5 "ZEIT Akademie Quiz Solver - Solve Quiz")](https://www.youtube.com/watch?v=dYlhPUnmym4)
