@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/Language-JavaScript-%23f34b7d.svg?style=flat)](https://en.wikipedia.org/wiki/JavaScript) 
 [![](https://img.shields.io/github/languages/code-size/Tosox/ZEIT-Akademie-Quiz-Solver?color=blue&label=Code%20size&style=flat)](https://github.com/Tosox/ZEIT-Akademie-Quiz-Solver)
-[![](https://img.shields.io/tokei/lines/github/Tosox/ZEIT-Akademie-Quiz-Solver?color=red&label=Total%20lines&style=flat)](https://github.com/Tosox/ZEIT-Akademie-Quiz-Solver)
+[![](https://tokei.rs/b1/github/Tosox/ZEIT-Akademie-Quiz-Solver?color=red&label=Total%20lines&style=flat)](https://github.com/Tosox/ZEIT-Akademie-Quiz-Solver)
 [![](https://img.shields.io/github/downloads/Tosox/ZEIT-Akademie-Quiz-Solver/total?color=green&label=Downloads&style=flat)](https://github.com/Tosox/ZEIT-Akademie-Quiz-Solver/releases)
 
 ## Description
