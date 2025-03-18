@@ -9,6 +9,7 @@
 // @icon            https://github.com/Tosox/ZEIT-Akademie-Quiz-Solver/blob/master/assets/icon.png?raw=true
 // @description     Shows the solutions to the current quiz questions
 // @version         1.0.2
+// @version         1.0.2
 // @license         MIT
 // @copyright       Copyright (c) 2025 Tosox
 // @match           https://www.zeitakademie.de/*
