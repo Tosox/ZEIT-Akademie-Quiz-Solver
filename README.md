@@ -4,9 +4,14 @@
 [![](https://tokei.rs/b1/github/Tosox/ZEIT-Akademie-Quiz-Solver?label=Total%20lines&style=for-the-badge)](https://github.com/Tosox/ZEIT-Akademie-Quiz-Solver)
 [![](https://img.shields.io/github/downloads/Tosox/ZEIT-Akademie-Quiz-Solver/total?label=Downloads&style=for-the-badge)](https://github.com/Tosox/ZEIT-Akademie-Quiz-Solver/releases)
 
+> [!NOTE]
+> This script is for educational purposes only. Use it responsibly!
+
 ## 📜 Description
 
-Reveals the solutions to the current ZEIT Akademie quiz questions.
+ZEIT Akademie Quiz Solver is a Tampermonkey user script that helps users quickly solve quizzes on [zeitakademie.de](https://www.zeitakademie.de/). It extracts the correct answer from the website’s internal data and comes with two features:
+* Show Solution (S) – Instantly reveals the correct answer for the current quiz question
+* Solve Quiz (Q) – Automatically selects the correct answers and progresses through the quiz
 
 ## 🔧 Installation
 
