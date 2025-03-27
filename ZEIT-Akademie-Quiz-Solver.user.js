@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            ZEIT Akademie Quiz Solver
 // @author          Tosox
-// @namespace       https://github.com/Tosox/ZEIT-Akademie-Quiz-Solver
+// @namespace       https://github.com/Tosox
 // @homepage        https://github.com/Tosox/ZEIT-Akademie-Quiz-Solver
 // @supportURL      https://github.com/Tosox/ZEIT-Akademie-Quiz-Solver/issues
 // @updateURL       https://github.com/Tosox/ZEIT-Akademie-Quiz-Solver/releases/latest/download/ZEIT-Akademie-Quiz-Solver.user.js
@@ -83,4 +83,4 @@
 
         clickAnswers();
     }, 'q');
-})()
+})();
