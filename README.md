@@ -16,7 +16,7 @@ ZEIT Akademie Quiz Solver is a Tampermonkey user script that helps users quickly
 ## 🔧 Installation
 
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension
-2. Go to the latest [ZEIT-Akademie-Quiz-Solveruser.js](https://github.com/Tosox/ZEIT-Akademie-Quiz-Solver/releases/latest/download/ZEIT-Akademie-Quiz-Solver.user.js) release
+2. Go to the latest [ZEIT-Akademie-Quiz-Solver.user.js](https://github.com/Tosox/ZEIT-Akademie-Quiz-Solver/releases/latest/download/ZEIT-Akademie-Quiz-Solver.user.js) release
 3. Press the `Install` button
 
 ## 🎥 Preview
